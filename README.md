@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Aspiring Frontend Developer with hands-on experience in HTML, CSS, JavaScript, and React. <br>Skilled in building responsive web applications and creating clean, user-friendly interfaces. <br>Worked on real-world projects and internships, gaining practical knowledge in web development and deployment. Passionate about learning new technologies and growing as a software developer.<br><br>SKILLS<br>Programming Languages:<br>JavaScript, Python<br>Frontend:<br>HTML5, CSS3, Tailwind CSS, Responsive Design, Cross-browser Compatibility<br>Frameworks & Libraries:<br>React.js, Redux, Bootstrap, SASS (Basics)<br>Tools & Technologies:<br>Git, GitHub, Tableau, Netlify<br>Soft Skills:<br>Teamwork, Communication, Adaptability, Problem Solving<br><br>💼 🧑‍💻 Internship Experience (Points)<br>Full Stack Developer – Glowlogics Solutions<br>    Developed responsive web pages using HTML and CSS<br>    Applied CSS concepts like box model, selectors, and layouts<br>    Improved UI design for better user experience<br>    Deployed websites using Netlify<br>    Tested applications for cross-browser compatibility<br>Web Developer – Digital Bhem<br>    Built web pages such as registration forms using HTML and CSS<br>    Designed structured and user-friendly layouts<br>    Enhanced UI with styling and layout improvements<br>    Ensured responsiveness across devices<br><br>🚀 📂 Projects <br>Grocery Store <br>    Built a dynamic web application using React and Redux<br>    Implemented efficient state management<br>    Added real-time UI updates and notifications<br>    Improved performance and user experience<br>Construction Website <br>    Designed a professional business website<br>    Developed responsive sections (services, projects, contact)<br>    Added JavaScript-based interactivity<br>    Focused on clean UI and usability<br>Risk-Adjusted Mutual Fund Ranking(ongoing)<br>    Developed a model to analyze mutual fund performance<br>    Evaluated risk vs return using financial metrics<br>    Built an interactive dashboard for insights<br>    Published research paper in IRJET
 
-<!--
-**shrinidhi-pai/shrinidhi-pai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shrinidhi-pai-397266264) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@Shrinidhi-Pai) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@shrinidhi pai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrinidhipai06@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shrinidhi-pai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shrinidhi-pai&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shrinidhi-pai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=shrinidhi-pai&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
